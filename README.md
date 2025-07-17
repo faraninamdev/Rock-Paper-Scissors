@@ -56,6 +56,10 @@ __🚀 How to Use:__
 
 - Use keyboard shortcuts: R for Rock, P for Paper, S for Scissors, A for Auto Play.
 
+__🌐 Live Demo:__
+
+- https://faran-inam.github.io/Rock-Paper-Scissors/
+
 __📄 License:__
 
 - This project is open-source and uses the MIT License.
